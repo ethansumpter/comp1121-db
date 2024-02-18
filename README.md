@@ -1,1 +1,1 @@
-# comp1121-db
+# Databases (COMP1121)
